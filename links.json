@@ -1,0 +1,23 @@
+{
+  "title": "Akebi-chan no Sailor-fuku",
+  "description": "Akebi-chan no Sailor-fuku",
+  "artist": "HIRO",
+  "author": "HIRO",
+  "cover": "https://i.imgur.com/30wlIPG.jpeg",
+  "chapters": {
+    "51": {
+      "title": "That's right!",
+      "groups": {
+        "2deepscans": "/proxy/api/imgur/chapter/AUctv99/"
+      },
+      "last_updated": "1623348180"
+    },
+    "52": {
+      "title": "It's a secret!",
+      "groups": {
+        "2deepscans": "/proxy/api/imgur/chapter/EZDa765/"
+      },
+      "last_updated": "1624658880"
+    }
+  }
+}
